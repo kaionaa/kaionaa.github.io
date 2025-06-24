@@ -1,6 +1,6 @@
 ## About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod lorem quis posuere dictum. In vitae eros ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus facilisis massa vel velit elementum tristique. Morbi pellentesque nibh eget ultrices fringilla. Donec non justo tortor. Donec id pellentesque felis. Integer porttitor, nibh in sodales laoreet, est turpis convallis ante, non sodales tortor eros vel orci. Nulla sit amet eleifend libero. Sed sed nibh pharetra augue mattis interdum in id ligula. Suspendisse varius lacus aliquet, varius leo vel, iaculis nibh.
+I am kaiona
 
 ## Projects
 
@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod lorem q
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Species Concepts in the Melissodes Genus Using Morphological Keying After Phylogenetic Analysis](/pdf/deezthesis.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
