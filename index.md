@@ -13,7 +13,7 @@ I am kaiona
 
 ---
 [Species Concepts in the Melissodes Genus Using Morphological Keying After Phylogenetic Analysis](/pdf/deezthesis.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/deezthesiscover.jpg?raw=true"/>
 
 ---
 
