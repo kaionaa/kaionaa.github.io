@@ -659,6 +659,13 @@ small {
   }
 }
 
+.role.brown-text {
+  color: #065925 !important;
+}
+.typing {
+  color: #c9e9d5 !important; 
+}
+
 @media (max-width: 600px) {
   h2 {
     font-size: 22px;
