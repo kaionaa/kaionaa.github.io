@@ -200,7 +200,7 @@ nav i {
 } */
 
 main {
-  background: url("https://github.com/kaionaa/kaionaa.github.io/blob/master/assets/img/intro-back.png") repeat;
+  background: #87b397;
   padding-left: 190px;
 }
 
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #065925 repeat;
+  background: url(../../assets/img/intro-back.png) no-repeat top center/cover;
   position: relative;
 }
 
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #fff !important;
+  color: #87b397 !important;
 }
 
 /* .teal-text {
