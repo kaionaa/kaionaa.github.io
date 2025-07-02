@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: none;
-  color: #00796b;
+  color: #fff;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -124,7 +124,7 @@
 /* body-color */
 
 body {
-  color: #333;
+  color: #fff;
   font-size: 18px;
 }
 
@@ -156,7 +156,7 @@ a {
 
 blockquote {
   border-left: 5px solid #795548;
-  color: #795548;
+  color: #065925;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
