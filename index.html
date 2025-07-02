@@ -990,7 +990,9 @@
       strings: ["Conservationist", "Leader", "Communicator", "Scientist"],
       loop: true,
       typeSpeed: 80,
-      backSpeed: 40
+      backSpeed: 40,
+      onBegin: () => {
+        document.querySelector('.typing').style.color = '##c9e9d5';
     });
   </script>
 
