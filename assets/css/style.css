@@ -514,6 +514,10 @@ a.hoverline:hover {
   height: auto;
 }
 
+.card.medium .card-content {
+  height: auto;
+}
+
 .card.medium .card-image {
   height: 240px;
 }
